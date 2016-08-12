@@ -2,7 +2,7 @@
 
 Building a static resume website using Bootstrap.
 
-WThe home page is ready!
+The home page is ready!
 
 Next step:
 
